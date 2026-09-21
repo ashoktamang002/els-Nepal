@@ -73,7 +73,7 @@ const translations = {
     t4: "Raju Phuyal",
     t4_desc: "Advocate | Consultant Lawyer",
     t4_descc: "LLM",
-    t5: "Shanta Panta",
+    t5: "Santa Pant",
     t5_desc: "Advocate | Consultant Lawyer",
     t5_descc: "LLM",
     t6: "Joni Mainali",
